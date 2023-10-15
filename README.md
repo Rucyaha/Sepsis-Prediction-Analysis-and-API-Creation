@@ -1,2 +1,2 @@
-# Sepsis-Prediction-Analysis-and-API-Creation
-6th Project Lp6
+# Machine-Learning-API-Creation
+This is the sixth project on our Data Analytics Professional Career Accelerator Program.
